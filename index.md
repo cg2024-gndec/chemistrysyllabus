@@ -13,7 +13,7 @@ priming, foaming, caustic embrittlement and boiler corrosion. Different steps
 for water purification to make it fit for drinking: - sedimentation, filtration, 
 flocculation, sterilization (using chlorine, bleaching powder, chloramines, 
 ozone & UV rays). Desalination of brackish water by electrodialysis and reverse 
-osmosis.]()
+osmosis.](https://cg2024-gndec.github.io/chemnotes/#water-treatment)
 
 ###  Unit-3 Electrochemistry: 
 
@@ -21,7 +21,7 @@ osmosis.]()
 electrochemical series, electrochemical cell, its representation. Nernst 
 equation and applications, numerical based on Nernst equation. Different type 
 of electrodes: - gas, calomel, quinhydrone electrode. Fuel cell. Solar cell. Li ion 
-battery and EV battery]()
+battery and EV battery](https://cg2024-gndec.github.io/chemnotes/#electrochemistry)
 
 
 ## Part-B
@@ -35,21 +35,21 @@ the concept of auxochrome), hyperchromic shift , hypsochromic shift ,
 applications of UV-VIS spectroscopy (detection of functional group, distinction 
 between conjugated and non-conjugated dienes, detection of unknown 
 concentration, detection of molecular weight , Fluorescence , phosphorescence 
-and isobestic points).]()  
+and isobestic points).](https://cg2024-gndec.github.io/chemnotes/#uv-vis-spectroscopy)  
 
 _IR spectroscopy_: [IR range, fingerprint and functional group region, 
 Instrumentation (flow diagram only of single and double beam 
 spectrophotometer and difference between these), principle (vibrations in 
 diatomic and polyatomic molecules), Hook’s law & applications of IR 
 spectroscopy (Peak positions of some common functional groups of organic 
-molecules, detec on of conjugation & electronic effect).]() 
+molecules, detec on of conjugation & electronic effect).](https://cg2024-gndec.github.io/chemnotes/#ir-spectroscopy) 
 
 _Nuclear Magnetic Resonance spectroscopy_: [Introduction (magnetic nucleus, 
 processional frequency, equivalent and non-equivalent protons), principle and 
 instrumentation, discussion of 1HNMR of simple organic molecules (ethane, 
 ethyl chloride and phenol) & applications of 1HNMR. (detec on of aromaticity, 
 detection of cis and trans isomers, detection of structural isomers and 
-detection of electronegative atom). ]()
+detection of electronegative atom). ](https://cg2024-gndec.github.io/chemnotes/#nmr-spectroscopy)
 
 ### Important engineering materials: 
 
@@ -63,4 +63,4 @@ the polymers. The mechanical properties of polymer. Polymer blends and
 alloys. Engineering plastics. Nanomaterials- fullerenes and inorganic 
 nanoparticles. Fullerenes: -Introduction, hydrated fullerenes, fullerite, type of 
 fullerene (buckyball, nanotubes and graphene), application of fullerenes.
-Nanoparticles – Introduction and properties. Optical materials (OLED).]()
+Nanoparticles – Introduction and properties. Optical materials (OLED).](https://cg2024-gndec.github.io/chemnotes/#polymers)
