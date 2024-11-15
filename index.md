@@ -15,6 +15,7 @@ flocculation, sterilization (using chlorine, bleaching powder, chloramines,
 ozone & UV rays). Desalination of brackish water by electrodialysis and reverse 
 osmosis.](https://cg2024-gndec.github.io/chemnotes/#water-treatment)
 
+
 ###  Unit-3 Electrochemistry: 
 
 [Fundamentals of electrochemistry: - electrode, electrodepotential, 
